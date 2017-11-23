@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vayne",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vayne eslint 共享配置",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/vaynejs/eslint-config-vayne#readme",
   "dependencies": {
     "babel-eslint": "^8.0.2",
+    "eslint": "^4.11.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-html": "^4.0.0",
     "eslint-plugin-import": "^2.8.0",
