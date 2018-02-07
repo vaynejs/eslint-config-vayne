@@ -25,24 +25,3 @@ module.exports = {
   }
 }
 ```
-
-> 单独使用 vue
-```shell
-yarn add eslint-plugin-vue eslint-config-vayne  -D
-npm i eslint-plugin-vue eslint-config-vayne -D
-```
-
-Example __.eslintrc.js__
-
-```js
-module.exports = {
-  extends: [
-    'eslint-config-vayne/vue'
-  ],
-  rules: {
-    
-  }
-}
-```
-
-
